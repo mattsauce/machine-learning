@@ -1,4 +1,6 @@
 # Tensorboard demo
-```python mnist_with_summaries.py
+```
+python mnist_with_summaries.py
 
-tensorboard --logdir=/tmp/tensorflow/mnist```
+tensorboard --logdir=/tmp/tensorflow/mnist
+```
