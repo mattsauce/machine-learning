@@ -7,5 +7,5 @@ The folder contains my code for the Udacity Google Deep learning course
 Sample code for sklearn
 ## Tensorflow
 Demo of the tensorboard
-## Pytorcnh
+## Pytorch
 Sample code for pytorch
