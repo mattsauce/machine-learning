@@ -1,4 +1,4 @@
-### Sample of code for Machine Learning and Deep Learning
+# Sample of code for Machine Learning and Deep Learning
 ##  Stanford  ML folder
 The folder contains my code for the Coursera Machine learning course
 ## Google Deep learning
